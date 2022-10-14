@@ -1,0 +1,83 @@
+﻿Installing assembly 'C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.InstallLog
+   assemblypath = C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.exe
+Rolling back assembly 'C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.InstallLog
+   assemblypath = C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.exe
+Installing assembly 'C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.InstallLog
+   assemblypath = C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.exe
+Rolling back assembly 'C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.InstallLog
+   assemblypath = C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.exe
+Installing assembly 'C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.InstallLog
+   assemblypath = C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.InstallLog
+   assemblypath = C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.exe
+Uninstalling assembly 'C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.InstallLog
+   assemblypath = C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.InstallLog
+   assemblypath = C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.InstallLog
+   assemblypath = C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.exe
+Uninstalling assembly 'C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.InstallLog
+   assemblypath = C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.InstallLog
+   assemblypath = C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.InstallLog
+   assemblypath = C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.exe
+Uninstalling assembly 'C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.InstallLog
+   assemblypath = C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.

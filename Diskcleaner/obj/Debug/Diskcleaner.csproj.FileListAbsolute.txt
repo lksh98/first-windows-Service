@@ -1,0 +1,8 @@
+C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Debug\Diskcleaner.exe.config
+C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Debug\Diskcleaner.exe
+C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Debug\Diskcleaner.pdb
+C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\obj\Debug\Diskcleaner.csproj.AssemblyReference.cache
+C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\obj\Debug\Diskcleaner.csproj.SuggestedBindingRedirects.cache
+C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\obj\Debug\Diskcleaner.csproj.CoreCompileInputs.cache
+C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\obj\Debug\Diskcleaner.exe
+C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\obj\Debug\Diskcleaner.pdb

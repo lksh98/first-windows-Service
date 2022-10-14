@@ -1,0 +1,14 @@
+C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.exe.config
+C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.exe
+C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.pdb
+C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\obj\Release\Diskcleaner.csproj.AssemblyReference.cache
+C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\obj\Release\Diskcleaner.csproj.CoreCompileInputs.cache
+C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\obj\Release\Diskcleaner.exe
+C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\obj\Release\Diskcleaner.pdb
+C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.exe.manifest
+C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\bin\Release\Diskcleaner.application
+C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\obj\Release\Diskcleaner.exe.manifest
+C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\obj\Release\Diskcleaner.application
+C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\obj\Release\Diskcleaner.ProjectInstaller.resources
+C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\obj\Release\Diskcleaner.Service1.resources
+C:\Users\lkshs\source\repos\Diskcleaner\Diskcleaner\obj\Release\Diskcleaner.csproj.GenerateResource.cache
